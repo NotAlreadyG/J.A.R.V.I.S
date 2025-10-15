@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://raw.githubusercontent.com/NotAlreadyG/J.A.R.V.I.S/main/JARVIS_Banner.jpg" />
+<img width="1200" height="475" alt="GHBanner" src="https://raw.githubusercontent.com/NotAlreadyG/J.A.R.V.I.S/main/JARVIS Banner.jpg" />
 </div>
 
 # 🤖 JARVIS — Voice-Based AI Assistant
